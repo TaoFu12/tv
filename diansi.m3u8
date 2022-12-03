@@ -20,7 +20,7 @@
 "spider":"http://maoyingshi.cc/tvbox/云星日记/jar/1126.jpg;md5;e80798750eca57470f29d1942bce39bb",
 
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vVGFvRnUxMi90di9tYWluL3poaWJvLnR4dA==="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vVGFvRnUxMi90di9tYWluL3poaWJvLnR4dA"]}]}],
 "wallpaper":"http://maoyingshi.cc/api.php",
 
   
